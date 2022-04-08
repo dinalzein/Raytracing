@@ -20,7 +20,7 @@ A Raytracing.exe will be generated, to get the output image 'anti_aliased.bmp', 
 
 <table style="width:100%; table-layout:fixed;">
 	<tr>
-		<td><img width="100%" src="image/anti_aliased.bmp"></td>
+		<td><img width="100%" src="anti_aliased.bmp"></td>
 	</tr>
 	<tr>
 		<td>  </td>
