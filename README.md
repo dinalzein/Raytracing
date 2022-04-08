@@ -10,13 +10,13 @@ To run the code, you can simply do the following:
 ```Bash
 Make
 ```
-A Raytracing.exe will be generated, to get the output image 'anti_aliased.bmp', type:
+A Raytracing.exe will be generated, to get the output image: 'anti_aliased.bmp', do:
 
 ```Bash
 ./Raytracing.exe
 ```
 
-## Results
+## Result
 
 <table style="width:100%; table-layout:fixed;">
 	<tr>
