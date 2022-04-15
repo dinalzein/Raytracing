@@ -27,4 +27,4 @@ A Raytracing.exe will be generated, to get the output image: 'anti_aliased.bmp',
 	</tr>
 </table>
 
-Note: This code is done 1 year ago. 
+Note: This code is done 1 year ago.
